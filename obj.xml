@@ -47,9 +47,6 @@
         </next>
       </block>
     </statement>
-    <next>
-      <block type="movement_stop" id="191"></block>
-    </next>
   </block>
   <block type="oled_linerect" id="64" x="-205" y="146">
     <field name="OBJECT">LINE</field>
